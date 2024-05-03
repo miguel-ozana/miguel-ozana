@@ -7,18 +7,18 @@ Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web deve
 
 
 # Skills
-<a href="#">
+
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python Icon" width="100" height="100">
-</a>
-<a href="#">
+
+
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" alt="Python Icon" width="100" height="100">
-</a>
-<a href="#">
+
+
     <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django Icon" width="100" height="100">
-</a>
-<a href="#">
+
+
     <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" alt="Flask Icon" width="100" height="100">
-</a>
+
 
 # Experience
 During my internship at Miceli Sociedade de Advogados, I've had the opportunity to work on various projects involving Django and web development. Some highlights of my experience include:
