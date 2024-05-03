@@ -10,11 +10,12 @@ Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web deve
 <a href="https://www.python.org/">
     <img src="https://example.com/python_icon.png" alt="Python Icon" width="100" height="100">
 </a>
-
+<a href="https://www.python.org/">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" alt="Python Icon" width="100" height="100">
+</a>
 <a href="https://www.djangoproject.com/">
     <img src="https://example.com/django_icon.png" alt="Django Icon" width="100" height="100">
 </a>
-
 <a href="https://flask.palletsprojects.com/">
     <img src="https://example.com/flask_icon.png" alt="Flask Icon" width="100" height="100">
 </a>
