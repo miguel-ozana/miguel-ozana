@@ -7,7 +7,17 @@ Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web deve
 
 
 # Skills
-![Js](https://user-images.githubusercontent.com/37812781/138798858-63cd24b5-cddb-4536-85e3-9f806e7e10fc.png)![html](https://user-images.githubusercontent.com/37812781/138798888-f0a6c3a7-29d1-4273-b7e1-d4104c557356.png)![css](https://user-images.githubusercontent.com/37812781/138800030-9044701e-63b8-49bf-b1b7-fe05743704f2.png)![sql](https://user-images.githubusercontent.com/37812781/138798853-73f41e63-05b0-46c2-919b-b1e92414b46a.png)
+<a href="https://www.python.org/">
+    <img src="https://example.com/python_icon.png" alt="Python Icon" width="100" height="100">
+</a>
+
+<a href="https://www.djangoproject.com/">
+    <img src="https://example.com/django_icon.png" alt="Django Icon" width="100" height="100">
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+    <img src="https://example.com/flask_icon.png" alt="Flask Icon" width="100" height="100">
+</a>
 
 # Experience
 During my internship at Miceli Sociedade de Advogados, I've had the opportunity to work on various projects involving Django and web development. Some highlights of my experience include:
