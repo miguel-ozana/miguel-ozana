@@ -7,7 +7,14 @@ Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web deve
 
 
 # Skills
-![html](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 
 # Experience
