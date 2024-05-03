@@ -8,10 +8,12 @@ Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web deve
 
 # Skills
 <div>
+    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="64px" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138798858-63cd24b5-cddb-4536-85e3-9f806e7e10fc.png" alt="Javascript" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138798888-f0a6c3a7-29d1-4273-b7e1-d4104c557356.png" alt="HTML5" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138800030-9044701e-63b8-49bf-b1b7-fe05743704f2.png" alt="CSS3" width="64px" />
-    <img src=""/>
 </div>
 
 
