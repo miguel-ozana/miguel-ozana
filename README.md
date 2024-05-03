@@ -2,11 +2,11 @@
 
 
 
-# About me
-Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web development using Django. Currently, I'm interning at Miceli Sociedade de Advogados, where I'm honing my skills and gaining practical experience in building web applications for legal purposes.
+# About me 👋🏻
+Hey there! 👋🏻 I'm Miguel Ozana, a Python developer with a passion for web development using Django. Currently, I'm interning at Miceli Sociedade de Advogados, where I'm honing my skills and gaining practical experience in building web applications for legal purposes.
 
 
-# Skills
+# Skills 🛠️
 <div>
     <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="64px" />
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="64px" />
@@ -14,10 +14,25 @@ Hey there! 👋 I'm Miguel Ozana, a Python developer with a passion for web deve
     <img src="https://user-images.githubusercontent.com/37812781/138798858-63cd24b5-cddb-4536-85e3-9f806e7e10fc.png" alt="Javascript" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138798888-f0a6c3a7-29d1-4273-b7e1-d4104c557356.png" alt="HTML5" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138800030-9044701e-63b8-49bf-b1b7-fe05743704f2.png" alt="CSS3" width="64px" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="64px" />
 </div>
 
+# Learning 📖
+<div>
+    <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="64px" />
+</div>
 
-# Experience
+# Wants to Learn 💡
+<div>
+    <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="64px" />
+</div>
+
+# Experience 🧑🏻‍🔬
 During my internship at Miceli Sociedade de Advogados, I've had the opportunity to work on various projects involving Django and web development. Some highlights of my experience include:
 
 Collaborating with senior developers to develop and maintain web applications using Django.
@@ -26,7 +41,7 @@ Assisting in database management and optimization for enhanced application perfo
 Contributing ideas and solutions in team meetings to enhance project functionalities.
 
 
-# Let's Connect
+# Let's Connect 🫱🏻‍🫲🏻
 I'm always eager to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to discuss opportunities or just to say hi!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ozana-951855231/)
 [![Email](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelozana@gmail.com)
