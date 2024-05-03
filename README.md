@@ -43,5 +43,7 @@ Contributing ideas and solutions in team meetings to enhance project functionali
 
 # Let's Connect 🫱🏻‍🫲🏻
 I'm always eager to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to discuss opportunities or just to say hi!
+
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ozana-951855231/)
 [![Email](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelozana@gmail.com)
