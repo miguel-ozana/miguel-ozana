@@ -58,10 +58,3 @@ I'm always eager to connect with fellow developers, share knowledge, and collabo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ozana-951855231/)
 [![Email](https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelozana@gmail.com)
-
-# Sats 📈 
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-ozana&layout=compact&langs_count=7&theme=react&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-ozana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
-</div>
