@@ -62,6 +62,6 @@ I'm always eager to connect with fellow developers, share knowledge, and collabo
 # Sats 📈 
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatan966&layout=compact&langs_count=7&theme=react&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatan966&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-ozana&layout=compact&langs_count=7&theme=react&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-ozana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
