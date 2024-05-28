@@ -49,10 +49,10 @@ Hey there! 👋🏻 I'm Miguel Ozana, a full-stack developer with a passion for 
 </div>
 
 # Experience 🧑🏻‍🔬
-During my internship at Miceli Sociedade de Advogados, I've had the opportunity to work on various projects involving Django and web development. Some highlights of my experience include:
+During my internship at Miceli Sociedade de Advogados, I've had the opportunity to work on various projects involving automations and web development. Some highlights of my experience include:
 
-Collaborating with senior developers to develop and maintain web applications using Django.
-Building automation scripts with Selenium to streamline repetitive tasks for lawyers and improve efficiency.
+Collaborating with senior developers to develop and maintain web applications using Python, Django, Flask, React, NodeJs and Typescript.
+Building automation scripts with Selenium and wweb.js to streamline repetitive tasks for lawyers and improve efficiency.
 Assisting in database management and optimization for enhanced application performance.
 Contributing ideas and solutions in team meetings to enhance project functionalities.
 
