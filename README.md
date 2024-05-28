@@ -3,17 +3,22 @@
 
 
 # About me 👋🏻
-Hey there! 👋🏻 I'm Miguel Ozana, a Python developer with a passion for web development using Django. Currently, I'm interning at Miceli Sociedade de Advogados, where I'm honing my skills and gaining practical experience in building web applications for legal purposes.
+Hey there! 👋🏻 I'm Miguel Ozana, a full-stack developer with a passion for web development. Currently, I'm interning at Miceli Sociedade de Advogados, where I'm honing my skills and gaining practical experience in building web applications for legal purposes.
 
 
 # Skills 🛠️
 <div>
-    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="64px" />
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="64px" />
-    <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138798858-63cd24b5-cddb-4536-85e3-9f806e7e10fc.png" alt="Javascript" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138798888-f0a6c3a7-29d1-4273-b7e1-d4104c557356.png" alt="HTML5" width="64px" />
     <img src="https://user-images.githubusercontent.com/37812781/138800030-9044701e-63b8-49bf-b1b7-fe05743704f2.png" alt="CSS3" width="64px" />
+    <img src="https://user-images.githubusercontent.com/37812781/138798656-6e769519-8003-4756-83d1-280ace0c8998.png" alt="React-JS" width="64px" />
+    <img src="https://user-images.githubusercontent.com/37812781/138799707-345550b2-0ee0-4fa0-8a35-4f1303ec0252.png" alt="Next-JS" width="64px" />
+    <img src="https://user-images.githubusercontent.com/37812781/138799535-ae4d2b00-f86e-42a2-93f6-9aae657795d4.png" alt="Typescript" width="64px" />
+    <img src="https://user-images.githubusercontent.com/37812781/138799855-806e539d-927c-41dd-b68c-6837c42f572e.png" alt="Node-JS" width="64px" />
+    <img src="https://user-images.githubusercontent.com/37812781/138798853-73f41e63-05b0-46c2-919b-b1e92414b46a.png" alt="MySQL" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="64px" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="64px" />
+    <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" width="64px" />
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="64px" />
     <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="64px" />
 </div>
