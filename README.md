@@ -3,7 +3,7 @@
 
 
 # About me 👋🏻
-Hey there! 👋🏻 I'm Miguel Ozana, a full-stack developer with a passion for web developmen.
+Hey there! 👋🏻 I'm Miguel Ozana, a full-stack developer with a passion for web development.
 
 # Skills 🛠️
 <div>
