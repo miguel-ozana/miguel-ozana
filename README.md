@@ -55,7 +55,7 @@ Assisting in database management and optimization for enhanced application perfo
 Contributing ideas and solutions in team meetings to enhance project functionalities.
 
 
-# Let's Connect 🫱🏻‍🫲🏻
+# Let's Connect 🤝
 I'm always eager to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to discuss opportunities or just to say hi!
 
 
