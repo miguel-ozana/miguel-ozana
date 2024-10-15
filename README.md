@@ -3,8 +3,7 @@
 
 
 # About me 👋🏻
-Hey there! 👋🏻 I'm Miguel Ozana, a full-stack developer with a passion for web development. Currently, I'm interning at Miceli Sociedade de Advogados, where I'm honing my skills and gaining practical experience in building web applications for legal purposes.
-
+Hey there! 👋🏻 I'm Miguel Ozana, a full-stack developer with a passion for web developmen.
 
 # Skills 🛠️
 <div>
